@@ -1,16 +1,15 @@
-### Hi there 👋
+### Just a beginner.
 
-<!--
-**lxl66566/lxl66566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages
 
-Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/-C++-critical)
+![Python](https://img.shields.io/badge/-Python-blue)
+![Rust](https://img.shields.io/badge/-Rust-brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Blog
+
+[absolutex's blog](https://absx.pages.dev/)
+
+#### contact me
+
+<a href="https://t.me/ab5_x" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ab5__x-blue?style=flat-square&logo=telegram" /></a>
