@@ -13,3 +13,6 @@
 #### contact me
 
 <a href="https://t.me/ab5_x" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ab5__x-blue?style=flat-square&logo=telegram" /></a>
+
+#### visitor count
+![count](https://profile-counter.glitch.me/lxl66566/count.svg)
