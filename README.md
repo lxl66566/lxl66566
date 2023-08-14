@@ -39,4 +39,4 @@
 </div>
 
 #### visitor count
-<!-- ![count](https://profile-counter.glitch.me/lxl66566/count.svg)-->
+![count](https://profile-counter.glitch.me/lxl66566/count.svg)
