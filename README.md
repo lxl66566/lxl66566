@@ -18,7 +18,7 @@
 
 [absolutex's blog](https://absx.pages.dev/)
 
-#### contact me
+#### Contact me
 
 <a href="https://t.me/ab5_x" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ab5__x-blue?style=flat-square&logo=telegram" /></a>
 
@@ -35,8 +35,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=40 height=40 />
+<img src="static/neovim.svg" width=40 height=40 />
+<img src="static/archlinux.svg" width=40 height=40 />
 </div>
 
-#### visitor count
+#### Visitor count
 ![count](https://profile-counter.glitch.me/lxl66566/count.svg)
