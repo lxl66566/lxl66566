@@ -18,6 +18,14 @@
 
 [absolutex's blog](https://absx.pages.dev/)
 
+#### Some of my projects
+
+- [BPM](https://github.com/lxl66566/bpm) - Python: Bin package manager, install any package on Github Release.
+- [wordsreciter](https://github.com/lxl66566/wordsreciter) - C++: Fast record English/Japanese words and recite it.
+- [wordinfo](https://github.com/lxl66566/wordinfo) - Rust: A CLI tool to look up words online using user-defined CSS Selector.
+- [urldecoder](https://github.com/lxl66566/urldecoder) - Rust: Batch decode URLs in your document.
+- [super24points](https://github.com/lxl66566/super24points-game) - C++: 24 points game with _power_, _bitwise op_ and _exact divde_.
+
 #### Contact me
 
 <a href="https://t.me/ab5_x" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ab5__x-blue?style=flat-square&logo=telegram" /></a>
@@ -40,4 +48,5 @@
 </div>
 
 #### Visitor count
+
 ![count](https://profile-counter.glitch.me/lxl66566/count.svg)
