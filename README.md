@@ -23,14 +23,27 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
 #### Some of my projects
 
 - [BPM](https://github.com/lxl66566/bpm) - Python: Bin package manager, install any package on Github Release.
-- [git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt) - Rust: An extremely simple-to-use, user-friendly git encrypt solution.
-- [wordsreciter](https://github.com/lxl66566/wordsreciter) - C++: Fast record English/Japanese words and recite it.
+- [git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt) - Rust: An extremely simple-to-use, user-friendly one-password git encrypt solution.
+- [wordsreciter](https://github.com/lxl66566/wordsreciter) - C++: Fast record English/Japanese words and randomly recite them. (support [Anki](https://github.com/ankitects/anki))
 - [wordinfo](https://github.com/lxl66566/wordinfo) - Rust: A CLI tool to look up words online using user-defined CSS Selector.
 - [urldecoder](https://github.com/lxl66566/urldecoder) - Rust: Batch decode URLs in your document.
-- [super24points](https://github.com/lxl66566/super24points-game) - C++: 24 points game with _power_, _bitwise op_ and _exact divde_.
-- [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) - Rust: Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.
 - [Mars-Bot-rs](https://github.com/lxl66566/Mars-Bot-rs) - Rust: Telegram bot to detect repeated images
 - [rust-simple-release](https://github.com/lxl66566/rust-simple-release) - Python: Extremely simple cross-platform release for your rust project! (with openssl hacked)
+- [super24points](https://github.com/lxl66566/super24points-game) - C++: 24 points game with _power_, _bitwise op_ and _exact divde_.
+- [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) - Rust: Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.
+
+other small projects:
+
+<details>
+
+  <summary>Click to unfold</summary>
+
+- [user-startup-py](https://github.com/lxl66566/user-startup-py): A cross-platform python script to easily make your command run on system startup.
+- [Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it): Force delete file/folder on windows, killing the fucking occuping processes.
+- [auto-play-in-mpv](https://github.com/lxl66566/auto-play-in-mpv): Click bilibili/youtube video and automatically jump to [mpv](https://mpv.io/) and play it.
+- [anyformatter](https://github.com/lxl66566/anyformatter-vscode): A vscode plugin to format any file with your shell command.
+
+</details>
 
 #### Contact me
 
