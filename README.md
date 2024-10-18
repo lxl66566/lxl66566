@@ -50,6 +50,9 @@ Other small projects:
 
 </details>
 
+- [my PYPI packages](https://pypi.org/user/lxl66566/)
+- [my Cargo packages](https://crates.io/users/lxl66566)
+
 #### Contact me
 
 <a href="https://t.me/ab5_x" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ab5__x-blue?style=flat-square&logo=telegram" /></a>
