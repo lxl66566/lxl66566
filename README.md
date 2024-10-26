@@ -43,15 +43,17 @@ Other small projects:
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
-| [user-startup-py](https://github.com/lxl66566/user-startup-py) | Python | A cross-platform python script to easily make your command run on system startup. |
 | [Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it) | Rust | Force delete file/folder on windows, killing the fucking occuping processes. |
-| [auto-play-in-mpv](https://github.com/lxl66566/auto-play-in-mpv) | Python | Click bilibili/youtube video and automatically jump to [mpv](https://mpv.io/) and play it. |
+| [user-startup-py](https://github.com/lxl66566/user-startup-py) | Python | A cross-platform python script to easily make your command run on system startup. |
 | [anyformatter](https://github.com/lxl66566/anyformatter-vscode) | Typescript | A vscode plugin to format any file with your shell command. |
+| [auto-play-in-mpv](https://github.com/lxl66566/auto-play-in-mpv) | Python | Click bilibili/youtube video and automatically jump to [mpv](https://mpv.io/) and play it. |
 
 </details>
 
-- [my PYPI packages](https://pypi.org/user/lxl66566/)
+I also made some useful packages:
+
 - [my Cargo packages](https://crates.io/users/lxl66566)
+- [my PYPI packages](https://pypi.org/user/lxl66566/)
 
 #### Contact me
 
@@ -63,7 +65,7 @@ Other small projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40 />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=40 height=40 />
 <img src="https://xmake.io/assets/img/logo.svg" width=40 height=40 />
