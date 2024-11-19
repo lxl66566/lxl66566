@@ -44,7 +44,7 @@ Other small projects:
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
 | [Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it) | Rust | Force delete file/folder on windows, killing the fucking occuping processes. |
-| [user-startup-py](https://github.com/lxl66566/user-startup-py) | Python | A cross-platform python script to easily make your command run on system startup. |
+| [user-startup-rs](https://github.com/lxl66566/user-startup-rs) | Rust | Simple cross-platform tool to make your command auto run on startup |
 | [anyformatter](https://github.com/lxl66566/anyformatter-vscode) | Typescript | A vscode plugin to format any file with your shell command. |
 | [auto-play-in-mpv](https://github.com/lxl66566/auto-play-in-mpv) | Python | Click bilibili/youtube video and automatically jump to [mpv](https://mpv.io/) and play it. |
 
