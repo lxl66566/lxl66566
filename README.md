@@ -85,11 +85,11 @@ Something interesting:
 | [Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it) | Rust | Force delete file/folder on windows, killing the fucking occuping processes.<br/>强制删除 Windows 上的文件/文件夹，终止占用的进程。 |
 | [urldecoder](https://github.com/lxl66566/urldecoder) | Rust | Batch decode URLs in your document.<br/>`https://example.com/#%E6%89%B9%E9%87%8F%E8%A7%A3%E7%A0%81%E6%96%87%E6%A1%A3%E4%B8%AD%E7%9A%84URL` |
 | [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) | Rust | Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.<br/>chnroutes 的 Rust 版本（具有更多功能），用于 VPN 直连访问中国 IP。 |
+| [ThingInRings (AI powered)](https://github.com/lxl66566/thing-in-rings-with-ai) | Typescript | AI-powered Thing In Rings game.<br/>Thing In Rings 桌游，但是 AI 做裁判 |
 | [wordinfo](https://github.com/lxl66566/wordinfo) | Rust | A CLI tool to look up words online using user-defined CSS Selector.<br/>一个命令行工具，通过用户定义的 CSS 选择器在线查找单词。 |
 | [windows-env](https://github.com/lxl66566/windows-env) | Rust | Easily edit windows env variable. Also a rust lib.<br/>命令行快速编辑 Windows 环境变量，也可作为 rust 库使用。 |
 | [wordsreciter](https://github.com/lxl66566/wordsreciter) | C++, Qt6 | Fast record English/Japanese words and randomly recite them. Supports [Anki](https://github.com/ankitects/anki).<br/>快速记录英语/日语单词并随机抽背。支持导出 [Anki](https://github.com/ankitects/anki)。 |
 | [super24points](https://github.com/lxl66566/super24points-game) | C++, Qt6 | 24 points game with _power_, _bitwise op_, and _exact divide_.<br/>一个包含 _幂_、_位运算_ 和 _整除_ 的 24 点游戏。 |
-| [auto-play-in-mpv](https://github.com/lxl66566/auto-play-in-mpv) | Python | Click bilibili/youtube video and automatically jump to [mpv](https://mpv.io/) to play it.<br/>点击 bilibili/youtube 视频，自动跳转到 [mpv](https://mpv.io/) 播放。 |
 
 </details>
 
@@ -99,8 +99,9 @@ Something interesting:
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
-| [xp3-audio-speedup](https://github.com/lxl66566/xp3-audio-speedup) | Rust | xp3 解封包工具与音频加速工具 |
+| [audio-batch-speedup](https://github.com/lxl66566/audio-batch-speedup) | Rust | 音频批量加速工具 |
 | [audio-loudness-batch-normalize](https://github.com/lxl66566/audio-loudness-batch-normalize) | Rust | 音频响度均衡器 |
+| [xp3-pack-unpack](https://github.com/lxl66566/xp3-pack-unpack) | Rust | xp3 解封包工具 |
 | [arc-reader-rs](https://github.com/lxl66566/arc-reader-rs) | Rust | BGI 引擎 .arc 文件解封包工具 |
 | [SilkyArcTool-rs](https://github.com/lxl66566/SilkyArcTool-rs) | Rust | Silky’s engine .arc 文件解封包工具 |
 
