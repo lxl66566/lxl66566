@@ -122,8 +122,7 @@ Something interesting:
 
 #### My packages
 
-- [my Cargo packages](https://crates.io/users/lxl66566)
-- [my PYPI packages](https://pypi.org/user/lxl66566/)
+[Cargo](https://crates.io/users/lxl66566) | [PYPI](https://pypi.org/user/lxl66566/) | [VSCode](https://marketplace.visualstudio.com/publishers/lxl66566)
 
 <!--
 #### Visitor count
