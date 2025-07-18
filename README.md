@@ -25,7 +25,7 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
 #### What I use
 
 <div>
-<img src="https://static-00.iconduck.com/assets.00/rust-icon-256x256-trkmhnpb.png" width=40 height=40 />
+<img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40 />
