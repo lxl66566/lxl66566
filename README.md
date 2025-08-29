@@ -104,6 +104,7 @@ Something interesting:
 | [xp3-pack-unpack](https://github.com/lxl66566/xp3-pack-unpack) | Rust | xp3 解封包工具 |
 | [arc-reader-rs](https://github.com/lxl66566/arc-reader-rs) | Rust | BGI 引擎 .arc 文件解封包工具 |
 | [SilkyArcTool-rs](https://github.com/lxl66566/SilkyArcTool-rs) | Rust | Silky’s engine .arc 文件解封包工具 |
+| [aos_up](https://github.com/lxl66566/aos_up) | Rust | .aos 文件解封包工具 |
 
 </details>
 
