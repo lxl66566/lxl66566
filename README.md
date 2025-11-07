@@ -92,7 +92,7 @@ Something interesting:
 </details>
 
 <details>
-<summary>Very small tools : Click to unfold</summary>
+<summary>Miniature gear : Click to unfold</summary>
 
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
