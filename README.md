@@ -67,11 +67,11 @@ Something interesting:
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
+| [AudioSpeedHack](https://github.com/lxl66566/AudioSpeedHack) | C++, Rust | Audio speedup for galgames.<br/>基于 dll 注入的 galgame 音频加速工具 |
 | [BPM](https://github.com/lxl66566/bpm) | Python | Bin package manager, install any package on Github Release.<br/>跨平台包管理器，从 Github Release 安装软件，拒绝源码编译 |
 | [git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt) | Rust | An extremely simple-to-use, user-friendly one-password git encrypt solution.<br/>简单易用的单密码 Git 仓库加密方案 |
-| [rust-simple-release](https://github.com/lxl66566/rust-simple-release) | Python | Extremely simple cross-platform release for your rust project! (no container, with openssl hacked).<br/>为 Rust 项目提供简单的跨平台二进制发布(无容器，自动处理 OpenSSL) |
-| [anyformatter](https://github.com/lxl66566/anyformatter-vscode) | Typescript | A vscode plugin to format any file with your shell command.<br/>使用本地 shell 命令格式化任意文件的 VSCode 插件。 |
 | [audio-loudness-batch-normalize](https://github.com/lxl66566/audio-loudness-batch-normalize) | Rust | massive audio loudness normalizer based on EBU R128 and RMS<br/>音频响度批量均衡器 |
+| [rust-simple-release](https://github.com/lxl66566/rust-simple-release) | Python | Extremely simple cross-platform release for your rust project! (no container, with openssl hacked).<br/>为 Rust 项目提供简单的跨平台二进制发布(无容器，自动处理 OpenSSL) |
 
 <details>
 <summary>Other projects : Click to unfold</summary>
@@ -79,6 +79,7 @@ Something interesting:
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
+| [anyformatter](https://github.com/lxl66566/anyformatter-vscode) | Typescript | A vscode plugin to format any file with your shell command.<br/>使用本地 shell 命令格式化任意文件的 VSCode 插件。 |
 | [rime-formatter](https://github.com/lxl66566/rime-formatter) | Typescript | VSCode plugin to format rime dict.<br/>VSCode 插件，用于 Rime 词库格式化 |
 | [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) | Rust | Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.<br/>chnroutes 的 Rust 版本（具有更多功能），用于 VPN 直连访问中国 IP。 |
 | [ThingInRings (AI powered)](https://github.com/lxl66566/thing-in-rings-with-ai) | Typescript | AI-powered Thing In Rings game.<br/>Thing In Rings 桌游，但是 AI 做裁判 |
@@ -112,8 +113,8 @@ Something interesting:
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
 | [AudioSpeedHack](https://github.com/lxl66566/AudioSpeedHack) | C++, Rust | 基于 dll 注入的 galgame 音频加速工具 |
-| [audio-batch-speedup](https://github.com/lxl66566/audio-batch-speedup) | Rust | 音频批量加速工具 |
 | [audio-loudness-batch-normalize](https://github.com/lxl66566/audio-loudness-batch-normalize) | Rust | 音频响度均衡器 |
+| [audio-batch-speedup](https://github.com/lxl66566/audio-batch-speedup) | Rust | 音频批量加速工具 |
 | [xp3-pack-unpack](https://github.com/lxl66566/xp3-pack-unpack) | Rust | xp3 解封包工具 |
 | [arc-reader-rs](https://github.com/lxl66566/arc-reader-rs) | Rust | BGI 引擎 .arc 文件解封包工具 |
 | [SilkyArcTool-rs](https://github.com/lxl66566/SilkyArcTool-rs) | Rust | Silky’s engine .arc 文件解封包工具 |
