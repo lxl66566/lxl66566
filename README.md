@@ -2,20 +2,6 @@
 
 Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to make the world better. I love experimenting with new tools and technologies. I'm currently interested in Rust.
 
-#### Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lxl66566&show_icons=true&theme=date_night"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lxl66566&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lxl66566&show_icons=true&theme=date_night" />
-</picture>
-
 ### [**Blog: absx.pages.dev**](https://absx.pages.dev/)
 
 #### Contact me
@@ -34,8 +20,8 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
 <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width=40 height=40 />
@@ -68,32 +54,31 @@ Something interesting:
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
 | [AudioSpeedHack](https://github.com/lxl66566/AudioSpeedHack) | C++, Rust | Audio speedup for galgames.<br/>基于 dll 注入的 galgame 音频加速工具 |
+| [GalgameManager](https://github.com/lxl66566/GalgameManager) | Rust(Tauri), SolidJS | Sync galgame saves, record playing time and so on.<br/>Galgame 存档同步、游玩时长记录等 |
 | [BPM](https://github.com/lxl66566/bpm) | Python | Bin package manager, install any package on Github Release.<br/>跨平台包管理器，从 Github Release 安装软件，拒绝源码编译 |
 | [git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt) | Rust | An extremely simple-to-use, user-friendly one-password git encrypt solution.<br/>简单易用的单密码 Git 仓库加密方案 |
 | [audio-loudness-batch-normalize](https://github.com/lxl66566/audio-loudness-batch-normalize) | Rust | massive audio loudness normalizer based on EBU R128 and RMS<br/>音频响度批量均衡器 |
 | [rust-simple-release](https://github.com/lxl66566/rust-simple-release) | Python | Extremely simple cross-platform release for your rust project! (no container, with openssl hacked).<br/>为 Rust 项目提供简单的跨平台二进制发布(无容器，自动处理 OpenSSL) |
 
+Click to unfold the following parts.
+
 <details>
-<summary>Other projects : Click to unfold</summary>
+<summary>Other projects</summary>
 
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
 | [anyformatter](https://github.com/lxl66566/anyformatter-vscode) | Typescript | A vscode plugin to format any file with your shell command.<br/>使用本地 shell 命令格式化任意文件的 VSCode 插件。 |
 | [rime-formatter](https://github.com/lxl66566/rime-formatter) | Typescript | VSCode plugin to format rime dict.<br/>VSCode 插件，用于 Rime 词库格式化 |
-| [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) | Rust | Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.<br/>chnroutes 的 Rust 版本（具有更多功能），用于 VPN 直连访问中国 IP。 |
 | [ThingInRings (AI powered)](https://github.com/lxl66566/thing-in-rings-with-ai) | Typescript | AI-powered Thing In Rings game.<br/>Thing In Rings 桌游，但是 AI 做裁判 |
-| [wordinfo](https://github.com/lxl66566/wordinfo) | Rust | A CLI tool to look up words online using user-defined CSS Selector.<br/>一个命令行工具，通过用户定义的 CSS 选择器在线查找单词。 |
-| [wordsreciter](https://github.com/lxl66566/wordsreciter) | C++, Qt6 | Fast record English/Japanese words and randomly recite them. Supports [Anki](https://github.com/ankitects/anki).<br/>快速记录英语/日语单词并随机抽背。支持导出到 [Anki](https://github.com/ankitects/anki)。 |
-| [super24points](https://github.com/lxl66566/super24points-game) | C++, Qt6 | 24 points game with _power_, _bitwise op_, and _exact divide_.<br/>一个包含 _幂_、_位运算_ 和 _整除_ 的 24 点游戏。 |
-| [init-script](https://github.com/lxl66566/init-script) | Python | VPS script with useful software and proxy<br/>VPS 自用一键脚本，部署代理 + 安装精选的 Linux 好用软件 |
-| [git-sync-backup](https://github.com/lxl66566/git-sync-backup) | Rust | Synchronize and backup files/folders using Git | 基于 Git 的文件同步和备份工具 |
+| [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) | Rust | Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.<br/>chnroutes 的 Rust 版本（具有更多功能），用于 VPN 直连访问中国 IP。 |
+| [super24points](https://github.com/lxl66566/super24points-game) and its [web version](https://github.com/lxl66566/super24points) | C++, Qt6<br/>SolidJS(web ver) | 24 points game with _power_, _bitwise op_, and _exact divide_.<br/>一个包含 _幂_、_位运算_ 和 _整除_ 的 24 点游戏。 |
 | [windows-dwarfs-tools](https://github.com/lxl66566/windows-dwarfs-tools) | Rust | make dwarfs easier to use for windows users<br/>傻瓜式的 dwarfs 工具，方便 Windows 用户使用 |
 
 </details>
 
 <details>
-<summary>Miniature gear : Click to unfold</summary>
+<summary>Mini tools</summary>
 
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
@@ -103,16 +88,18 @@ Something interesting:
 | [urldecoder](https://github.com/lxl66566/urldecoder) | Rust | Batch decode URLs in your document.<br/>`https://example.com/#%E6%89%B9%E9%87%8F%E8%A7%A3%E7%A0%81%E6%96%87%E6%A1%A3%E4%B8%AD%E7%9A%84URL` |
 | [user-startup-rs](https://github.com/lxl66566/user-startup-rs) | Rust | Simple cross-platform tool to make your command auto run on startup.<br/>在系统启动时自动运行指令。跨平台。 |
 | [eyesbreaker](https://github.com/lxl66566/eyesbreaker) | Rust | Remind you to relax your eyes and take a break.<br/>windows 托盘程序，提醒你放松眼睛。 |
+| [git-touchfish-commit](https://github.com/lxl66566/git-touchfish-commit) | Rust | 摸鱼鱼 |
 
 </details>
 
 <details>
-<summary>Galgame tools : Click to unfold</summary>
+<summary>Galgame tools</summary>
 
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
 | [AudioSpeedHack](https://github.com/lxl66566/AudioSpeedHack) | C++, Rust | 基于 dll 注入的 galgame 音频加速工具 |
+| [GalgameManager](https://github.com/lxl66566/GalgameManager) | Rust(Tauri), SolidJS | Galgame 存档同步、游玩时长记录等 |
 | [audio-loudness-batch-normalize](https://github.com/lxl66566/audio-loudness-batch-normalize) | Rust | 音频响度均衡器 |
 | [audio-batch-speedup](https://github.com/lxl66566/audio-batch-speedup) | Rust | 音频批量加速工具 |
 | [xp3-pack-unpack](https://github.com/lxl66566/xp3-pack-unpack) | Rust | xp3 解封包工具 |
@@ -123,7 +110,7 @@ Something interesting:
 </details>
 
 <details>
-<summary>Telegram Bots : Click to unfold</summary>
+<summary>Telegram Bots</summary>
 
 <!-- prettier-ignore -->
 | Project Name | Technology Stack | Description |
@@ -135,9 +122,24 @@ Something interesting:
 
 </details>
 
+<details>
+<summary>Garbage</summary>
+
+someting done but currently not used.
+
+<!-- prettier-ignore -->
+| Project Name | Technology Stack | Description |
+| --- | --- | --- |
+| [init-script](https://github.com/lxl66566/init-script) | Python | VPS script with useful software and proxy<br/>VPS 自用一键脚本，部署代理 + 安装精选的 Linux 好用软件 |
+| [git-sync-backup](https://github.com/lxl66566/git-sync-backup) | Rust | Synchronize and backup files/folders using Git | 基于 Git 的文件同步和备份工具 |
+| [wordinfo](https://github.com/lxl66566/wordinfo) | Rust | A CLI tool to look up words' meaning online using user-defined CSS Selector.<br/>一个命令行工具，通过用户定义的 CSS 选择器在线查询单词释义。 |
+| [wordsreciter](https://github.com/lxl66566/wordsreciter) | C++, Qt6 | Fast record English/Japanese words and randomly recite them. Supports [Anki](https://github.com/ankitects/anki).<br/>快速记录英语/日语单词并随机抽背。支持导出到 [Anki](https://github.com/ankitects/anki)。 |
+
+</details>
+
 #### My packages
 
-[Cargo](https://crates.io/users/lxl66566) | [PYPI](https://pypi.org/user/lxl66566/) | [VSCode market](https://marketplace.visualstudio.com/publishers/lxl66566)
+[Cargo](https://crates.io/users/lxl66566) | [PYPI](https://pypi.org/user/lxl66566/) | [NUR](https://github.com/lxl66566/NUR) | [VSCode market](https://marketplace.visualstudio.com/publishers/lxl66566)
 
 <!--
 #### Visitor count
