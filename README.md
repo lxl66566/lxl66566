@@ -11,7 +11,7 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
 #### What I use
 
 <table cellspacing="10" cellpadding="0" border="0">
-  <tr>
+  <tr style="border: none; background: transparent">
     <td><img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="40" height="40" alt="Rust" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></td>
@@ -19,7 +19,7 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /></td>
   </tr>
-  <tr>
+  <tr style="border: none; background: transparent">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width="40" height="40" alt="SolidJS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /></td>
@@ -34,19 +34,29 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
       />
     </td>
   </tr>
-  <tr>
+  <tr style="border: none; background: transparent">
     <td><img src="https://xmake.io/assets/img/logo.svg" width="40" height="40" alt="XMake" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="40" height="40" alt="pnpm" /></td>
+    <td style="border: none; background: transparent"></td>
+    <td style="border: none; background: transparent"></td>
+    <td style="border: none; background: transparent"></td>
   </tr>
-  <tr>
+  <tr style="border: none; background: transparent">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" alt="Vim" /></td>
+    <td style="border: none; background: transparent"></td>
+    <td style="border: none; background: transparent"></td>
+    <td style="border: none; background: transparent"></td>
+    <td style="border: none; background: transparent"></td>
   </tr>
-  <tr>
+  <tr style="border: none; background: transparent">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows 11" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="40" height="40" alt="NixOS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux" /></td>
+    <td style="border: none; background: transparent"></td>
+    <td style="border: none; background: transparent"></td>
+    <td style="border: none; background: transparent"></td>
   </tr>
 </table>
 
