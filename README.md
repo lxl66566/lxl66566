@@ -10,26 +10,45 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
 
 #### What I use
 
-<div>
-<img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=40 height=40 />
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width=40 height=40 />
-
-<br/>
-
-<img src="https://xmake.io/assets/img/logo.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width=40 height=40 />
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width=40 height=40 />
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width=40 height=40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width=40 height=40 />
-
-</div>
+<table cellspacing="10" cellpadding="0" border="0">
+  <tr>
+    <td><img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="40" height="40" alt="Rust" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width="40" height="40" alt="SolidJS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="40" height="40" alt="Tauri" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" alt="Qt" /></td>
+    <td>
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg"
+        width="40"
+        height="40"
+        alt="Jetpack Compose"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://xmake.io/assets/img/logo.svg" width="40" height="40" alt="XMake" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="40" height="40" alt="pnpm" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" alt="Vim" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows 11" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="40" height="40" alt="NixOS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux" /></td>
+  </tr>
+</table>
 
 #### Some of my projects
 
@@ -71,6 +90,7 @@ Click to unfold the following parts.
 | [windows-env](https://github.com/lxl66566/windows-env) | Rust | Easily edit windows env variable. Also a rust lib.<br/>命令行快速编辑 Windows 环境变量，也可作为 rust 库使用。 |
 | [urldecoder](https://github.com/lxl66566/urldecoder) | Rust | Batch decode URLs in your document.<br/>`https://example.com/#%E6%89%B9%E9%87%8F%E8%A7%A3%E7%A0%81%E6%96%87%E6%A1%A3%E4%B8%AD%E7%9A%84URL` |
 | [user-startup-rs](https://github.com/lxl66566/user-startup-rs) | Rust | Simple cross-platform tool to make your command auto run on startup.<br/>在系统启动时自动运行指令。跨平台。 |
+| [git-sync-backup](https://github.com/lxl66566/git-sync-backup) | Rust | Synchronize and backup files/folders using Git | 基于 Git 的文件同步和备份工具 |
 | [eyesbreaker](https://github.com/lxl66566/eyesbreaker) | Rust | Remind you to relax your eyes and take a break.<br/>windows 托盘程序，提醒你放松眼睛。 |
 | [git-touchfish-commit](https://github.com/lxl66566/git-touchfish-commit) | Rust | 摸鱼鱼 |
 
@@ -115,7 +135,6 @@ someting done but currently not used.
 | Project Name | Technology Stack | Description |
 | --- | --- | --- |
 | [init-script](https://github.com/lxl66566/init-script) | Python | VPS script with useful software and proxy<br/>VPS 自用一键脚本，部署代理 + 安装精选的 Linux 好用软件 |
-| [git-sync-backup](https://github.com/lxl66566/git-sync-backup) | Rust | Synchronize and backup files/folders using Git | 基于 Git 的文件同步和备份工具 |
 | [wordinfo](https://github.com/lxl66566/wordinfo) | Rust | A CLI tool to look up words' meaning online using user-defined CSS Selector.<br/>一个命令行工具，通过用户定义的 CSS 选择器在线查询单词释义。 |
 | [wordsreciter](https://github.com/lxl66566/wordsreciter) | C++, Qt6 | Fast record English/Japanese words and randomly recite them. Supports [Anki](https://github.com/ankitects/anki).<br/>快速记录英语/日语单词并随机抽背。支持导出到 [Anki](https://github.com/ankitects/anki)。 |
 
@@ -123,7 +142,7 @@ someting done but currently not used.
 
 #### My packages
 
-[Cargo](https://crates.io/users/lxl66566) | [PYPI](https://pypi.org/user/lxl66566/) | [NUR](https://github.com/lxl66566/NUR) | [VSCode market](https://marketplace.visualstudio.com/publishers/lxl66566)
+[crates.io](https://crates.io/users/lxl66566) | [PYPI](https://pypi.org/user/lxl66566/) | [VSCode market](https://marketplace.visualstudio.com/publishers/lxl66566) | [NUR](https://github.com/lxl66566/NUR)
 
 <!--
 #### Visitor count
