@@ -84,9 +84,6 @@ Click to unfold the following parts.
 | --- | --- | --- |
 | [anyformatter](https://github.com/lxl66566/anyformatter-vscode) | Typescript | A vscode plugin to format any file with your shell command.<br/>使用本地 shell 命令格式化任意文件的 VSCode 插件。 |
 | [rime-formatter](https://github.com/lxl66566/rime-formatter) | Typescript | VSCode plugin to format rime dict.<br/>VSCode 插件，用于 Rime 词库格式化 |
-| [ThingInRings (AI powered)](https://github.com/lxl66566/thing-in-rings-with-ai) | Typescript | AI-powered Thing In Rings game.<br/>Thing In Rings 桌游，但是 AI 做裁判 |
-| [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) | Rust | Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.<br/>chnroutes 的 Rust 版本（具有更多功能），用于 VPN 直连访问中国 IP。 |
-| [super24points](https://github.com/lxl66566/super24points-game) and its [web version](https://github.com/lxl66566/super24points) | C++, Qt6<br/>SolidJS(web ver) | 24 points game with _power_, _bitwise op_, and _exact divide_.<br/>一个包含 _幂_、_位运算_ 和 _整除_ 的 24 点游戏。 |
 
 </details>
 
@@ -103,6 +100,7 @@ Click to unfold the following parts.
 | [git-sync-backup](https://github.com/lxl66566/git-sync-backup) | Rust | Synchronize and backup files/folders using Git | 基于 Git 的文件同步和备份工具 |
 | [eyesbreaker](https://github.com/lxl66566/eyesbreaker) | Rust | Remind you to relax your eyes and take a break.<br/>windows 托盘程序，提醒你放松眼睛。 |
 | [git-touchfish-commit](https://github.com/lxl66566/git-touchfish-commit) | Rust | 摸鱼鱼 |
+| [sing-dae](https://github.com/lxl66566/sing-dae) | Rust | Config converter between dae and sing-box.<br/>dae/sing-box 代理配置文件互转 |
 
 </details>
 
@@ -120,6 +118,7 @@ Click to unfold the following parts.
 | [arc-reader-rs](https://github.com/lxl66566/arc-reader-rs) | Rust | BGI 引擎 .arc 文件解封包工具 |
 | [SilkyArcTool-rs](https://github.com/lxl66566/SilkyArcTool-rs) | Rust | Silky’s engine .arc 文件解封包工具 |
 | [aos_up](https://github.com/lxl66566/aos_up) | Rust | .aos 文件解封包工具 |
+| [fvp-rs](https://github.com/lxl66566/fvp-rs) | Rust | fvp 引擎 .bin 解包工具 |
 
 </details>
 
@@ -147,6 +146,19 @@ someting done but currently not used.
 | [init-script](https://github.com/lxl66566/init-script) | Python | VPS script with useful software and proxy<br/>VPS 自用一键脚本，部署代理 + 安装精选的 Linux 好用软件 |
 | [wordinfo](https://github.com/lxl66566/wordinfo) | Rust | A CLI tool to look up words' meaning online using user-defined CSS Selector.<br/>一个命令行工具，通过用户定义的 CSS 选择器在线查询单词释义。 |
 | [wordsreciter](https://github.com/lxl66566/wordsreciter) | C++, Qt6 | Fast record English/Japanese words and randomly recite them. Supports [Anki](https://github.com/ankitects/anki).<br/>快速记录英语/日语单词并随机抽背。支持导出到 [Anki](https://github.com/ankitects/anki)。 |
+| [chnroutes-rs](https://github.com/lxl66566/chnroutes-rs) | Rust | Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.<br/>chnroutes 的 Rust 版本（具有更多功能），用于 VPN 直连访问中国 IP。 |
+
+</details>
+
+<details>
+<summary>Games</summary>
+
+<!-- prettier-ignore -->
+| Project Name | Technology Stack | Description |
+| --- | --- | --- |
+| [super24points](https://github.com/lxl66566/super24points-game) and its [web version](https://github.com/lxl66566/super24points) | C++, Qt6<br/>SolidJS(web ver) | 24 points game with _power_, _bitwise op_, and _exact divide_.<br/>一个包含 _幂_、_位运算_ 和 _整除_ 的 24 点游戏。 |
+| [ThingInRings (AI powered)](https://github.com/lxl66566/thing-in-rings-with-ai) | Typescript | AI-powered Thing In Rings game.<br/>Thing In Rings 桌游，但是 AI 做裁判 |
+| [Kraken-chess-game](https://github.com/absxsfriends/Kraken-chess-game) | SolidJS | Kraken 棋，课设 pygame 的重写版本 |
 
 </details>
 
