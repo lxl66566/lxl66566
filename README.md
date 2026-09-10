@@ -1,8 +1,8 @@
 ### Just a beginner.
 
-Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to make the world better. I love experimenting with new tools and technologies. I'm currently interested in Rust.
+Hi, I'm AbsoluteX. I have a lot of ideas and like creating **small tools**. I'm curious and enjoy exploring new tools and technologies, and tend to look at things critically. I care about performance.
 
-### [**Blog: absx.pages.dev**](https://absx.pages.dev/)
+### Blog (In Chinese): [absx.pages.dev](https://absx.pages.dev/)
 
 #### Contact me
 
@@ -22,7 +22,6 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
   <tr style="border: none; background: transparent">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width="40" height="40" alt="SolidJS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="40" height="40" alt="Tauri" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" alt="Qt" /></td>
     <td>
@@ -33,18 +32,19 @@ Hi, I'm AbsoluteX. I have a lot of ideas and enjoy creating **small tools** to m
         alt="Jetpack Compose"
       />
     </td>
+    <td style="border: none; background: transparent"></td>
   </tr>
   <tr style="border: none; background: transparent">
     <td><img src="https://xmake.io/assets/img/logo.svg" width="40" height="40" alt="XMake" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="40" height="40" alt="pnpm" /></td>
+    <td style="border: none; background: transparent"></td>
     <td style="border: none; background: transparent"></td>
     <td style="border: none; background: transparent"></td>
     <td style="border: none; background: transparent"></td>
   </tr>
   <tr style="border: none; background: transparent">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" alt="Vim" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" alt="Neovim" /></td>
     <td style="border: none; background: transparent"></td>
     <td style="border: none; background: transparent"></td>
     <td style="border: none; background: transparent"></td>
