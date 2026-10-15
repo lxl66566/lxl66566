@@ -69,10 +69,9 @@ Something interesting:
 | --- | --- | --- |
 | [GalgameManager](https://github.com/lxl66566/GalgameManager) | Rust (Tauri), SolidJS | Manage Galgames, sync saves, plugin system and playing time record<br/>Galgame 管理器，支持存档同步、插件系统、游玩时长记录等 |
 | [AudioSpeedHack](https://github.com/lxl66566/AudioSpeedHack) | C++, Rust | Audio speedup for galgames.<br/>基于 dll 注入的 galgame 音频加速工具 |
+| [reader-server-rs](https://github.com/lxl66566/reader-server-rs) | Rust, SolidJS | Website for reading books.<br/>阅读服务器 |
 | [BPM](https://github.com/lxl66566/bpm) | Python | Bin package manager, install any package on Github Release.<br/>跨平台包管理器，从 Github Release 安装软件，拒绝源码编译 |
 | [git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt) | Rust | An extremely simple-to-use, user-friendly one-password git encrypt solution.<br/>安全简单易用的单密码 Git 仓库加密方案 |
-| [audio-loudness-batch-normalize](https://github.com/lxl66566/audio-loudness-batch-normalize) | Rust | Audio loudness normalizer based on EBU R128 and RMS<br/>音频响度批量均衡 |
-| [rust-simple-release](https://github.com/lxl66566/rust-simple-release) | Python | Extremely simple cross-platform release for your rust project! (no container, with openssl hacked).<br/>为 Rust 项目提供简单的跨平台二进制发布(无容器，自动处理 OpenSSL) |
 
 Click to unfold the following parts.
 
@@ -84,6 +83,9 @@ Click to unfold the following parts.
 | --- | --- | --- |
 | [anyformatter](https://github.com/lxl66566/anyformatter-vscode) | Typescript | A vscode plugin to format any file with your shell command.<br/>使用本地 shell 命令格式化任意文件的 VSCode 插件。 |
 | [rime-formatter](https://github.com/lxl66566/rime-formatter) | Typescript | VSCode plugin to format rime dict.<br/>VSCode 插件，用于 Rime 词库格式化 |
+| [absolute-press](https://github.com/lxl66566/absolute-press) | Typescript | Fast SSG blog framework.<br/>超快的静态博客框架 |
+| [audio-loudness-batch-normalize](https://github.com/lxl66566/audio-loudness-batch-normalize) | Rust | Audio loudness normalizer based on EBU R128 and RMS<br/>音频响度批量均衡 |
+| [rust-simple-release](https://github.com/lxl66566/rust-simple-release) | Python | Extremely simple cross-platform release for your rust project! (no container, with openssl hacked).<br/>为 Rust 项目提供简单的跨平台二进制发布(无容器，自动处理 OpenSSL) |
 
 </details>
 
@@ -164,7 +166,7 @@ someting done but currently not used.
 
 #### My packages
 
-[crates.io](https://crates.io/users/lxl66566) | [PYPI](https://pypi.org/user/lxl66566/) | [VSCode market](https://marketplace.visualstudio.com/publishers/lxl66566) | [NUR](https://github.com/lxl66566/NUR)
+[crates.io](https://crates.io/users/lxl66566) | [npmjs](https://www.npmjs.com/~absolutex) | [PYPI](https://pypi.org/user/lxl66566/) | [VSCode market](https://marketplace.visualstudio.com/publishers/lxl66566) | [NUR](https://github.com/lxl66566/NUR)
 
 <!--
 #### Visitor count
